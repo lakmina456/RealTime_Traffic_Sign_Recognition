@@ -206,21 +206,21 @@ Results show significant improvements over existing solutions:
         <a href="https://github.com/example1" style="text-decoration: none; color: inherit;">
           <img src="https://github.com/example1.png" width="100px;" alt=""/>
           <br />
-          <sub><b>Example User 1</b></sub>
+          <sub><b>Ruwini Munasinghe</b></sub>
         </a>
       </td>
       <td style="padding: 10px;">
         <a href="https://github.com/example2" style="text-decoration: none; color: inherit;">
-          <img src="https://github.com/example2.png" width="100px;" alt=""/>
+          <img src="https://github.com/example1.png" width="100px;" alt=""/>
           <br />
-          <sub><b>Example User 2</b></sub>
+          <sub><b>Rashmi Mendis</b></sub>
         </a>
       </td>
       <td style="padding: 10px;">
         <a href="https://github.com/example3" style="text-decoration: none; color: inherit;">
           <img src="https://github.com/example3.png" width="100px;" alt=""/>
           <br />
-          <sub><b>Example User 3</b></sub>
+          <sub><b>Isurika Athapaththu</b></sub>
         </a>
       </td>
     </tr>
@@ -238,10 +238,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you use this work in your research, please cite our paper:
 ```
-@article{realtime_traffic_sign_2024,
+@article{realtime_traffic_sign_recognition_using_computer_vision,
   title={Real-time Traffic Sign Recognition System Using Computer Vision},
-  author={I.D.I.L Senavirathna, A.M.I.P Athapaththu, D.G.R.N Munasinghe, D.R.L Mendis, M.N.M Nafees},
-  year={2024}
+  author={I.D.I.L Senavirathna, M.N.M Nafees, D.G.R.N Munasinghe, D.R.L Mendis, A.M.I.P Athapaththu},
+  year={2025}
 }
 ```
 
