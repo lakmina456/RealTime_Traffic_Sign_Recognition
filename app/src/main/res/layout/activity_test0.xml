@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000">
+
+    <!-- Image Views for the road footage -->
+    <ImageView
+        android:id="@+id/imgGlide"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:contentDescription="TODO"
+        android:scaleType="centerCrop"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"/>
+
+    <!-- Top overlay for date/time and speed -->
+
+    <LinearLayout
+        android:id="@+id/topOverlay"
+        android:layout_width="700dp"
+        android:layout_height="74dp"
+        android:baselineAligned="false"
+        android:orientation="horizontal"
+        android:padding="16dp"
+        android:weightSum="2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <!-- Left Section - DateTime -->
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="start|center_vertical">
+
+            <TextView
+                android:id="@+id/date_time_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#FFFFFF"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <!-- Right Section - End Button -->
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="end|center_vertical">
+
+            <Button
+                android:id="@+id/end_session_button"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/end_button_background"
+                android:paddingStart="24dp"
+                android:paddingTop="8dp"
+                android:paddingEnd="24dp"
+                android:paddingBottom="8dp"
+                android:text="End"
+                android:textColor="#FFFFFF"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <!-- Bottom curved panel -->
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="448dp"
+        android:layout_height="95dp"
+        android:background="@drawable/curved_bottom_panel"
+        android:padding="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+
+        <TextView
+            android:id="@+id/label_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Drive Safe"
+            android:textColor="#FFFFFF"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/mute_unmute"
+            app:layout_constraintStart_toEndOf="@+id/sign_view"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageButton
+            android:id="@+id/mute_unmute"
+            android:layout_width="63dp"
+            android:layout_height="61dp"
+            android:layout_marginEnd="20dp"
+            android:background="@drawable/sound_button_background"
+            android:contentDescription="TODO"
+            android:padding="1dp"
+            android:src="@drawable/volume"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="1.0" />
+
+        <ImageView
+            android:id="@+id/sign_view"
+            android:layout_width="60dp"
+            android:layout_height="62dp"
+            android:layout_marginStart="20dp"
+            android:contentDescription="TODO"
+            android:padding="1dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

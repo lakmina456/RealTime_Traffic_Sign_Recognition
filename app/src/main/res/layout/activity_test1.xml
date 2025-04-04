@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+    android:layout_height="match_parent">
+
+    <!-- Image Views for the road footage -->
+
+    <ImageView
+        android:id="@+id/imgGlide"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:contentDescription="TODO"
+        android:scaleType="centerCrop"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"/>
+
+    <!-- Top overlay for date/time and speed -->
+
+    <ImageView
+        android:id="@+id/ImageView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:adjustViewBounds="true"
+        android:contentDescription="TODO"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <LinearLayout
+        android:id="@+id/topOverlay"
+        android:layout_width="700dp"
+        android:layout_height="74dp"
+        android:baselineAligned="false"
+        android:orientation="horizontal"
+        android:padding="16dp"
+        android:weightSum="2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <!-- Left Section - DateTime -->
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="start|center_vertical">
+
+            <TextView
+                android:id="@+id/date_time_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Date and Time"
+                android:textColor="#4CAF50"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:visibility="invisible" />
+
+
+        </LinearLayout>
+
+        <!-- Right Section - End Button -->
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="end|center_vertical">
+
+            <Button
+                android:id="@+id/end_session_button"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/end_button_background"
+                android:paddingStart="24dp"
+                android:paddingTop="8dp"
+                android:paddingEnd="24dp"
+                android:paddingBottom="8dp"
+                android:text="End"
+                android:textColor="#FFFFFF"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <!-- Bottom curved panel -->
+
+
+    <LinearLayout
+        android:id="@+id/topOverlay2"
+        android:layout_width="100dp"
+        android:layout_height="261dp"
+        android:layout_marginTop="16dp"
+        android:baselineAligned="false"
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:weightSum="2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.046"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/text_view3"
+            android:layout_width="77dp"
+            android:layout_height="0dp"
+            android:layout_marginBottom="10dp"
+            android:layout_weight="0.4"
+            android:gravity="top|center"
+            android:text="History"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:visibility="visible" />
+
+        <ImageView
+            android:id="@+id/image_view1"
+            android:layout_width="77dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="10dp"
+            android:layout_weight="0.4"
+            android:contentDescription="Image 2"
+            android:scaleType="centerCrop" />
+
+        <ImageView
+            android:id="@+id/image_view2"
+            android:layout_width="77dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_weight="0.4"
+            android:contentDescription="Image 2"
+            android:scaleType="centerCrop" />
+
+
+    </LinearLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/root_layout"
+        android:layout_width="591dp"
+        android:layout_height="96dp"
+        android:background="@drawable/curved_bottom_panel"
+        android:padding="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <!-- Child views positioned independently -->
+    <TextView
+        android:id="@+id/label_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Drive Safe"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@id/root_layout"
+        app:layout_constraintEnd_toStartOf="@+id/mute_unmute1"
+        app:layout_constraintStart_toEndOf="@+id/sign_view"
+        app:layout_constraintTop_toTopOf="@id/root_layout" />
+
+    <ImageButton
+        android:id="@+id/mute_unmute1"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginEnd="12dp"
+        android:background="@drawable/sound_button_background"
+        android:contentDescription="TODO"
+        android:padding="1dp"
+        android:src="@drawable/volume"
+        app:layout_constraintBottom_toBottomOf="@id/root_layout"
+        app:layout_constraintEnd_toEndOf="@id/root_layout"
+        app:layout_constraintTop_toTopOf="@id/root_layout" />
+
+    <ImageView
+        android:id="@+id/sign_view"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="8dp"
+        android:contentDescription="TODO"
+        android:padding="1dp"
+        app:layout_constraintBottom_toBottomOf="@id/root_layout"
+        app:layout_constraintStart_toStartOf="@id/root_layout"
+        app:layout_constraintTop_toTopOf="@id/root_layout" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

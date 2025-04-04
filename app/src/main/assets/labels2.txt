@@ -1,0 +1,20 @@
+Children Crossing Ahead
+Double Bend to Left Ahead
+Double Bend to Right Ahead
+Left Bend Ahead
+Level Crossing with Gates Ahead
+No Entry
+No Left Turn
+No Right Turn
+No U-turn
+Pedestrian Crossing
+Pedestrian Crossing Ahead
+Right Bend Ahead
+Road Narrows Ahead
+Road Narrows on the Left Side Ahead
+Road Narrows on the Right Side Ahead
+Road Work Ahead
+Speed Limit 100km/h
+Speed Limit 60km/h
+Speed Limit 70km/h
+Speed Limit 80km/h

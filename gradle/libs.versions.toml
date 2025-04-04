@@ -1,0 +1,45 @@
+[versions]
+agp = "8.4.2"
+appcompatVersion = "1.6.1"
+bcrypt = "0.9.0"
+constraintlayoutVersion = "2.2.0"
+jbcrypt = "0.4"
+junit = "4.13.2"
+junitVersion = "1.1.5"
+espressoCore = "3.5.1"
+appcompat = "1.7.0"
+material = "1.12.0"
+activity = "1.9.0"
+constraintlayout = "2.1.4"
+materialVersion = "1.4.0"
+mobileFfmpegFull = "4.4.LTS"
+tensorflowLite = "2.12.0"
+tensorflowLiteGpu = "2.9.0"
+tensorflowLiteSupport = "0.4.0"
+tensorflowLiteTaskVision = "0.3.1"
+litertApi = "1.0.1"
+
+[libraries]
+appcompat-v161 = { module = "androidx.appcompat:appcompat", version.ref = "appcompatVersion" }
+bcrypt = { module = "at.favre.lib:bcrypt", version.ref = "bcrypt" }
+constraintlayout-v220 = { module = "androidx.constraintlayout:constraintlayout", version.ref = "constraintlayoutVersion" }
+jbcrypt = { module = "org.mindrot:jbcrypt", version.ref = "jbcrypt" }
+junit = { group = "junit", name = "junit", version.ref = "junit" }
+ext-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
+espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
+appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+activity = { group = "androidx.activity", name = "activity", version.ref = "activity" }
+constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
+material-v140 = { module = "com.google.android.material:material", version.ref = "materialVersion" }
+mobile-ffmpeg-full = { module = "com.arthenica:mobile-ffmpeg-full", version.ref = "mobileFfmpegFull" }
+tensorflow-lite = { module = "org.tensorflow:tensorflow-lite", version.ref = "tensorflowLite" }
+tensorflow-lite-gpu = { module = "org.tensorflow:tensorflow-lite-gpu", version.ref = "tensorflowLiteGpu" }
+tensorflow-lite-support = { module = "org.tensorflow:tensorflow-lite-support", version.ref = "tensorflowLiteSupport" }
+tensorflow-lite-task-vision = { module = "org.tensorflow:tensorflow-lite-task-vision", version.ref = "tensorflowLite" }
+tensorflow-lite-task-vision-v031 = { module = "org.tensorflow:tensorflow-lite-task-vision", version.ref = "tensorflowLiteTaskVision" }
+litert-api = { group = "com.google.ai.edge.litert", name = "litert-api", version.ref = "litertApi" }
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "agp" }
+

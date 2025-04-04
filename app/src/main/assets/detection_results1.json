@@ -1,0 +1,3926 @@
+[
+    {
+        "frame": 1,
+        "detections": []
+    },
+    {
+        "frame": 2,
+        "detections": []
+    },
+    {
+        "frame": 3,
+        "detections": []
+    },
+    {
+        "frame": 4,
+        "detections": []
+    },
+    {
+        "frame": 5,
+        "detections": []
+    },
+    {
+        "frame": 6,
+        "detections": []
+    },
+    {
+        "frame": 7,
+        "detections": []
+    },
+    {
+        "frame": 8,
+        "detections": []
+    },
+    {
+        "frame": 9,
+        "detections": []
+    },
+    {
+        "frame": 10,
+        "detections": []
+    },
+    {
+        "frame": 11,
+        "detections": []
+    },
+    {
+        "frame": 12,
+        "detections": []
+    },
+    {
+        "frame": 13,
+        "detections": []
+    },
+    {
+        "frame": 14,
+        "detections": []
+    },
+    {
+        "frame": 15,
+        "detections": []
+    },
+    {
+        "frame": 16,
+        "detections": []
+    },
+    {
+        "frame": 17,
+        "detections": []
+    },
+    {
+        "frame": 18,
+        "detections": []
+    },
+    {
+        "frame": 19,
+        "detections": []
+    },
+    {
+        "frame": 20,
+        "detections": []
+    },
+    {
+        "frame": 21,
+        "detections": []
+    },
+    {
+        "frame": 22,
+        "detections": []
+    },
+    {
+        "frame": 23,
+        "detections": []
+    },
+    {
+        "frame": 24,
+        "detections": []
+    },
+    {
+        "frame": 25,
+        "detections": []
+    },
+    {
+        "frame": 26,
+        "detections": []
+    },
+    {
+        "frame": 27,
+        "detections": []
+    },
+    {
+        "frame": 28,
+        "detections": []
+    },
+    {
+        "frame": 29,
+        "detections": []
+    },
+    {
+        "frame": 30,
+        "detections": []
+    },
+    {
+        "frame": 31,
+        "detections": []
+    },
+    {
+        "frame": 32,
+        "detections": []
+    },
+    {
+        "frame": 33,
+        "detections": []
+    },
+    {
+        "frame": 34,
+        "detections": []
+    },
+    {
+        "frame": 35,
+        "detections": []
+    },
+    {
+        "frame": 36,
+        "detections": []
+    },
+    {
+        "frame": 37,
+        "detections": []
+    },
+    {
+        "frame": 38,
+        "detections": []
+    },
+    {
+        "frame": 39,
+        "detections": []
+    },
+    {
+        "frame": 40,
+        "detections": []
+    },
+    {
+        "frame": 41,
+        "detections": []
+    },
+    {
+        "frame": 42,
+        "detections": []
+    },
+    {
+        "frame": 43,
+        "detections": []
+    },
+    {
+        "frame": 44,
+        "detections": []
+    },
+    {
+        "frame": 45,
+        "detections": []
+    },
+    {
+        "frame": 46,
+        "detections": []
+    },
+    {
+        "frame": 47,
+        "detections": []
+    },
+    {
+        "frame": 48,
+        "detections": []
+    },
+    {
+        "frame": 49,
+        "detections": []
+    },
+    {
+        "frame": 50,
+        "detections": []
+    },
+    {
+        "frame": 51,
+        "detections": []
+    },
+    {
+        "frame": 52,
+        "detections": []
+    },
+    {
+        "frame": 53,
+        "detections": []
+    },
+    {
+        "frame": 54,
+        "detections": []
+    },
+    {
+        "frame": 55,
+        "detections": []
+    },
+    {
+        "frame": 56,
+        "detections": []
+    },
+    {
+        "frame": 57,
+        "detections": []
+    },
+    {
+        "frame": 58,
+        "detections": []
+    },
+    {
+        "frame": 59,
+        "detections": []
+    },
+    {
+        "frame": 60,
+        "detections": []
+    },
+    {
+        "frame": 61,
+        "detections": []
+    },
+    {
+        "frame": 62,
+        "detections": []
+    },
+    {
+        "frame": 63,
+        "detections": []
+    },
+    {
+        "frame": 64,
+        "detections": []
+    },
+    {
+        "frame": 65,
+        "detections": []
+    },
+    {
+        "frame": 66,
+        "detections": []
+    },
+    {
+        "frame": 67,
+        "detections": []
+    },
+    {
+        "frame": 68,
+        "detections": []
+    },
+    {
+        "frame": 69,
+        "detections": []
+    },
+    {
+        "frame": 70,
+        "detections": []
+    },
+    {
+        "frame": 71,
+        "detections": []
+    },
+    {
+        "frame": 72,
+        "detections": []
+    },
+    {
+        "frame": 73,
+        "detections": []
+    },
+    {
+        "frame": 74,
+        "detections": []
+    },
+    {
+        "frame": 75,
+        "detections": []
+    },
+    {
+        "frame": 76,
+        "detections": []
+    },
+    {
+        "frame": 77,
+        "detections": []
+    },
+    {
+        "frame": 78,
+        "detections": []
+    },
+    {
+        "frame": 79,
+        "detections": []
+    },
+    {
+        "frame": 80,
+        "detections": []
+    },
+    {
+        "frame": 81,
+        "detections": []
+    },
+    {
+        "frame": 82,
+        "detections": []
+    },
+    {
+        "frame": 83,
+        "detections": []
+    },
+    {
+        "frame": 84,
+        "detections": []
+    },
+    {
+        "frame": 85,
+        "detections": []
+    },
+    {
+        "frame": 86,
+        "detections": []
+    },
+    {
+        "frame": 87,
+        "detections": []
+    },
+    {
+        "frame": 88,
+        "detections": []
+    },
+    {
+        "frame": 89,
+        "detections": []
+    },
+    {
+        "frame": 90,
+        "detections": []
+    },
+    {
+        "frame": 91,
+        "detections": []
+    },
+    {
+        "frame": 92,
+        "detections": []
+    },
+    {
+        "frame": 93,
+        "detections": []
+    },
+    {
+        "frame": 94,
+        "detections": []
+    },
+    {
+        "frame": 95,
+        "detections": [
+            {
+                "bbox": [
+                    502.18939208984375,
+                    325.82086181640625,
+                    526.5433959960938,
+                    357.68914794921875
+                ],
+                "confidence": 0.5091468691825867,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 96,
+        "detections": [
+            {
+                "bbox": [
+                    500.2186279296875,
+                    325.80780029296875,
+                    525.761474609375,
+                    358.14239501953125
+                ],
+                "confidence": 0.5653249621391296,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 97,
+        "detections": [
+            {
+                "bbox": [
+                    500.54034423828125,
+                    325.380126953125,
+                    524.6685180664062,
+                    358.3759765625
+                ],
+                "confidence": 0.63730788230896,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 98,
+        "detections": [
+            {
+                "bbox": [
+                    498.43896484375,
+                    324.86785888671875,
+                    525.334228515625,
+                    359.10137939453125
+                ],
+                "confidence": 0.6245627999305725,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 99,
+        "detections": [
+            {
+                "bbox": [
+                    497.47210693359375,
+                    324.66448974609375,
+                    524.5069580078125,
+                    359.35113525390625
+                ],
+                "confidence": 0.5768967866897583,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 100,
+        "detections": []
+    },
+    {
+        "frame": 101,
+        "detections": [
+            {
+                "bbox": [
+                    494.054931640625,
+                    324.0198974609375,
+                    521.6151123046875,
+                    358.3360595703125
+                ],
+                "confidence": 0.5553627014160156,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 102,
+        "detections": [
+            {
+                "bbox": [
+                    492.47344970703125,
+                    323.738037109375,
+                    519.357666015625,
+                    358.899658203125
+                ],
+                "confidence": 0.5098533034324646,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 103,
+        "detections": [
+            {
+                "bbox": [
+                    490.7523193359375,
+                    323.189208984375,
+                    518.4751586914062,
+                    359.275146484375
+                ],
+                "confidence": 0.5657402276992798,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 104,
+        "detections": []
+    },
+    {
+        "frame": 105,
+        "detections": []
+    },
+    {
+        "frame": 106,
+        "detections": [
+            {
+                "bbox": [
+                    485.04827880859375,
+                    321.147705078125,
+                    514.3216552734375,
+                    359.0986328125
+                ],
+                "confidence": 0.6005423069000244,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 107,
+        "detections": [
+            {
+                "bbox": [
+                    484.6523742675781,
+                    320.28326416015625,
+                    511.9122619628906,
+                    358.90057373046875
+                ],
+                "confidence": 0.6465676426887512,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 108,
+        "detections": [
+            {
+                "bbox": [
+                    481.2052001953125,
+                    321.0816650390625,
+                    511.22589111328125,
+                    359.3414306640625
+                ],
+                "confidence": 0.6680428385734558,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 109,
+        "detections": []
+    },
+    {
+        "frame": 110,
+        "detections": [
+            {
+                "bbox": [
+                    477.33868408203125,
+                    320.9283447265625,
+                    509.03887939453125,
+                    359.7852783203125
+                ],
+                "confidence": 0.5671477913856506,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 111,
+        "detections": []
+    },
+    {
+        "frame": 112,
+        "detections": []
+    },
+    {
+        "frame": 113,
+        "detections": []
+    },
+    {
+        "frame": 114,
+        "detections": []
+    },
+    {
+        "frame": 115,
+        "detections": [
+            {
+                "bbox": [
+                    466.3705749511719,
+                    318.63360595703125,
+                    500.6813659667969,
+                    361.57806396484375
+                ],
+                "confidence": 0.7045083045959473,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 116,
+        "detections": []
+    },
+    {
+        "frame": 117,
+        "detections": [
+            {
+                "bbox": [
+                    460.01361083984375,
+                    318.600341796875,
+                    498.6788330078125,
+                    360.3060302734375
+                ],
+                "confidence": 0.6019692420959473,
+                "class_id": 4,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 118,
+        "detections": [
+            {
+                "bbox": [
+                    458.0996398925781,
+                    318.91943359375,
+                    496.7720031738281,
+                    358.9835205078125
+                ],
+                "confidence": 0.5037102103233337,
+                "class_id": 4,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 119,
+        "detections": [
+            {
+                "bbox": [
+                    454.7833251953125,
+                    316.8359375,
+                    491.93328857421875,
+                    363.0069580078125
+                ],
+                "confidence": 0.5717759132385254,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 120,
+        "detections": []
+    },
+    {
+        "frame": 121,
+        "detections": []
+    },
+    {
+        "frame": 122,
+        "detections": [
+            {
+                "bbox": [
+                    445.43365478515625,
+                    314.39453125,
+                    483.34185791015625,
+                    363.3095703125
+                ],
+                "confidence": 0.6767237782478333,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 123,
+        "detections": []
+    },
+    {
+        "frame": 124,
+        "detections": []
+    },
+    {
+        "frame": 125,
+        "detections": []
+    },
+    {
+        "frame": 126,
+        "detections": [
+            {
+                "bbox": [
+                    430.8058166503906,
+                    313.22998046875,
+                    474.2421569824219,
+                    364.7996826171875
+                ],
+                "confidence": 0.7770038843154907,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 127,
+        "detections": []
+    },
+    {
+        "frame": 128,
+        "detections": []
+    },
+    {
+        "frame": 129,
+        "detections": [
+            {
+                "bbox": [
+                    416.46856689453125,
+                    310.818359375,
+                    466.70904541015625,
+                    365.82275390625
+                ],
+                "confidence": 0.6930255889892578,
+                "class_id": 4,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 130,
+        "detections": [
+            {
+                "bbox": [
+                    414.0711975097656,
+                    309.6253662109375,
+                    461.0437316894531,
+                    366.8280029296875
+                ],
+                "confidence": 0.6122797727584839,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 131,
+        "detections": [
+            {
+                "bbox": [
+                    408.24871826171875,
+                    310.119140625,
+                    456.62890625,
+                    366.18798828125
+                ],
+                "confidence": 0.7091955542564392,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 132,
+        "detections": [
+            {
+                "bbox": [
+                    402.3084411621094,
+                    309.453369140625,
+                    453.0711975097656,
+                    366.996826171875
+                ],
+                "confidence": 0.7085342407226562,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 133,
+        "detections": [
+            {
+                "bbox": [
+                    395.9307556152344,
+                    308.142333984375,
+                    448.9314270019531,
+                    368.0546875
+                ],
+                "confidence": 0.7280981540679932,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 134,
+        "detections": [
+            {
+                "bbox": [
+                    391.72406005859375,
+                    307.11358642578125,
+                    444.92340087890625,
+                    367.73797607421875
+                ],
+                "confidence": 0.8369088172912598,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 135,
+        "detections": [
+            {
+                "bbox": [
+                    385.47845458984375,
+                    306.25885009765625,
+                    438.74871826171875,
+                    368.57342529296875
+                ],
+                "confidence": 0.7282252311706543,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 136,
+        "detections": []
+    },
+    {
+        "frame": 137,
+        "detections": [
+            {
+                "bbox": [
+                    371.5990905761719,
+                    302.938232421875,
+                    428.9645080566406,
+                    369.37646484375
+                ],
+                "confidence": 0.8228731155395508,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 138,
+        "detections": [
+            {
+                "bbox": [
+                    364.08843994140625,
+                    301.82415771484375,
+                    423.3583984375,
+                    369.72039794921875
+                ],
+                "confidence": 0.808165431022644,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 139,
+        "detections": [
+            {
+                "bbox": [
+                    355.6239318847656,
+                    300.34375,
+                    418.2608337402344,
+                    370.2691650390625
+                ],
+                "confidence": 0.6045776605606079,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 140,
+        "detections": [
+            {
+                "bbox": [
+                    348.09674072265625,
+                    299.987060546875,
+                    412.42401123046875,
+                    369.94091796875
+                ],
+                "confidence": 0.6116275787353516,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 141,
+        "detections": [
+            {
+                "bbox": [
+                    338.1522216796875,
+                    298.74920654296875,
+                    405.59149169921875,
+                    370.22222900390625
+                ],
+                "confidence": 0.7635434865951538,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 142,
+        "detections": [
+            {
+                "bbox": [
+                    328.603759765625,
+                    298.3597412109375,
+                    399.5169677734375,
+                    371.6724853515625
+                ],
+                "confidence": 0.8143754005432129,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 143,
+        "detections": [
+            {
+                "bbox": [
+                    318.51434326171875,
+                    295.6611328125,
+                    389.75970458984375,
+                    372.383056640625
+                ],
+                "confidence": 0.588013768196106,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 144,
+        "detections": []
+    },
+    {
+        "frame": 145,
+        "detections": [
+            {
+                "bbox": [
+                    294.2854309082031,
+                    292.569091796875,
+                    371.0378112792969,
+                    374.7760009765625
+                ],
+                "confidence": 0.594910740852356,
+                "class_id": 4,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 146,
+        "detections": [
+            {
+                "bbox": [
+                    283.5606384277344,
+                    290.6226806640625,
+                    362.4021301269531,
+                    375.6024169921875
+                ],
+                "confidence": 0.6534978151321411,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 147,
+        "detections": [
+            {
+                "bbox": [
+                    268.5370178222656,
+                    287.24041748046875,
+                    353.3169250488281,
+                    378.56988525390625
+                ],
+                "confidence": 0.6777306795120239,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 148,
+        "detections": []
+    },
+    {
+        "frame": 149,
+        "detections": [
+            {
+                "bbox": [
+                    239.65286254882812,
+                    285.654052734375,
+                    326.1509094238281,
+                    381.715087890625
+                ],
+                "confidence": 0.5432236790657043,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 150,
+        "detections": [
+            {
+                "bbox": [
+                    221.74700927734375,
+                    284.578369140625,
+                    314.276611328125,
+                    383.0780029296875
+                ],
+                "confidence": 0.7010411024093628,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 151,
+        "detections": [
+            {
+                "bbox": [
+                    202.42132568359375,
+                    279.9615478515625,
+                    298.70489501953125,
+                    386.0340576171875
+                ],
+                "confidence": 0.7753032445907593,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 152,
+        "detections": [
+            {
+                "bbox": [
+                    181.0093994140625,
+                    275.6044921875,
+                    280.32562255859375,
+                    385.263916015625
+                ],
+                "confidence": 0.5858485102653503,
+                "class_id": 4,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 153,
+        "detections": [
+            {
+                "bbox": [
+                    159.7794189453125,
+                    273.0018310546875,
+                    261.425048828125,
+                    389.1934814453125
+                ],
+                "confidence": 0.667718768119812,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 154,
+        "detections": [
+            {
+                "bbox": [
+                    135.2516326904297,
+                    268.1539306640625,
+                    240.38990783691406,
+                    392.9366455078125
+                ],
+                "confidence": 0.7436515092849731,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 155,
+        "detections": [
+            {
+                "bbox": [
+                    109.2235336303711,
+                    263.96673583984375,
+                    221.05624389648438,
+                    394.84979248046875
+                ],
+                "confidence": 0.6934932470321655,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 156,
+        "detections": [
+            {
+                "bbox": [
+                    78.7747802734375,
+                    261.673583984375,
+                    194.601806640625,
+                    397.300048828125
+                ],
+                "confidence": 0.6411198377609253,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 157,
+        "detections": [
+            {
+                "bbox": [
+                    46.9317626953125,
+                    256.62109375,
+                    163.61163330078125,
+                    400.5439453125
+                ],
+                "confidence": 0.6745678186416626,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 158,
+        "detections": [
+            {
+                "bbox": [
+                    7.86395263671875,
+                    254.23681640625,
+                    129.8980255126953,
+                    402.4356689453125
+                ],
+                "confidence": 0.7354394197463989,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 159,
+        "detections": [
+            {
+                "bbox": [
+                    0.0,
+                    244.894287109375,
+                    93.62598419189453,
+                    410.076171875
+                ],
+                "confidence": 0.5322574973106384,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 160,
+        "detections": []
+    },
+    {
+        "frame": 161,
+        "detections": []
+    },
+    {
+        "frame": 162,
+        "detections": []
+    },
+    {
+        "frame": 163,
+        "detections": []
+    },
+    {
+        "frame": 164,
+        "detections": []
+    },
+    {
+        "frame": 165,
+        "detections": []
+    },
+    {
+        "frame": 166,
+        "detections": []
+    },
+    {
+        "frame": 167,
+        "detections": []
+    },
+    {
+        "frame": 168,
+        "detections": []
+    },
+    {
+        "frame": 169,
+        "detections": []
+    },
+    {
+        "frame": 170,
+        "detections": []
+    },
+    {
+        "frame": 171,
+        "detections": []
+    },
+    {
+        "frame": 172,
+        "detections": []
+    },
+    {
+        "frame": 173,
+        "detections": []
+    },
+    {
+        "frame": 174,
+        "detections": []
+    },
+    {
+        "frame": 175,
+        "detections": []
+    },
+    {
+        "frame": 176,
+        "detections": []
+    },
+    {
+        "frame": 177,
+        "detections": []
+    },
+    {
+        "frame": 178,
+        "detections": []
+    },
+    {
+        "frame": 179,
+        "detections": []
+    },
+    {
+        "frame": 180,
+        "detections": []
+    },
+    {
+        "frame": 181,
+        "detections": []
+    },
+    {
+        "frame": 182,
+        "detections": []
+    },
+    {
+        "frame": 183,
+        "detections": []
+    },
+    {
+        "frame": 184,
+        "detections": []
+    },
+    {
+        "frame": 185,
+        "detections": []
+    },
+    {
+        "frame": 186,
+        "detections": []
+    },
+    {
+        "frame": 187,
+        "detections": []
+    },
+    {
+        "frame": 188,
+        "detections": []
+    },
+    {
+        "frame": 189,
+        "detections": []
+    },
+    {
+        "frame": 190,
+        "detections": []
+    },
+    {
+        "frame": 191,
+        "detections": []
+    },
+    {
+        "frame": 192,
+        "detections": []
+    },
+    {
+        "frame": 193,
+        "detections": []
+    },
+    {
+        "frame": 194,
+        "detections": []
+    },
+    {
+        "frame": 195,
+        "detections": []
+    },
+    {
+        "frame": 196,
+        "detections": []
+    },
+    {
+        "frame": 197,
+        "detections": []
+    },
+    {
+        "frame": 198,
+        "detections": []
+    },
+    {
+        "frame": 199,
+        "detections": []
+    },
+    {
+        "frame": 200,
+        "detections": []
+    },
+    {
+        "frame": 201,
+        "detections": []
+    },
+    {
+        "frame": 202,
+        "detections": []
+    },
+    {
+        "frame": 203,
+        "detections": []
+    },
+    {
+        "frame": 204,
+        "detections": []
+    },
+    {
+        "frame": 205,
+        "detections": []
+    },
+    {
+        "frame": 206,
+        "detections": []
+    },
+    {
+        "frame": 207,
+        "detections": []
+    },
+    {
+        "frame": 208,
+        "detections": []
+    },
+    {
+        "frame": 209,
+        "detections": []
+    },
+    {
+        "frame": 210,
+        "detections": []
+    },
+    {
+        "frame": 211,
+        "detections": []
+    },
+    {
+        "frame": 212,
+        "detections": []
+    },
+    {
+        "frame": 213,
+        "detections": []
+    },
+    {
+        "frame": 214,
+        "detections": []
+    },
+    {
+        "frame": 215,
+        "detections": []
+    },
+    {
+        "frame": 216,
+        "detections": []
+    },
+    {
+        "frame": 217,
+        "detections": []
+    },
+    {
+        "frame": 218,
+        "detections": []
+    },
+    {
+        "frame": 219,
+        "detections": []
+    },
+    {
+        "frame": 220,
+        "detections": []
+    },
+    {
+        "frame": 221,
+        "detections": []
+    },
+    {
+        "frame": 222,
+        "detections": []
+    },
+    {
+        "frame": 223,
+        "detections": []
+    },
+    {
+        "frame": 224,
+        "detections": []
+    },
+    {
+        "frame": 225,
+        "detections": []
+    },
+    {
+        "frame": 226,
+        "detections": []
+    },
+    {
+        "frame": 227,
+        "detections": []
+    },
+    {
+        "frame": 228,
+        "detections": []
+    },
+    {
+        "frame": 229,
+        "detections": []
+    },
+    {
+        "frame": 230,
+        "detections": []
+    },
+    {
+        "frame": 231,
+        "detections": []
+    },
+    {
+        "frame": 232,
+        "detections": []
+    },
+    {
+        "frame": 233,
+        "detections": []
+    },
+    {
+        "frame": 234,
+        "detections": []
+    },
+    {
+        "frame": 235,
+        "detections": []
+    },
+    {
+        "frame": 236,
+        "detections": [
+            {
+                "bbox": [
+                    470.934814453125,
+                    324.2532958984375,
+                    501.044189453125,
+                    360.2467041015625
+                ],
+                "confidence": 0.5458616614341736,
+                "class_id": 4,
+                "class_name": "Level Crossing with Gates Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 237,
+        "detections": [
+            {
+                "bbox": [
+                    468.8544921875,
+                    324.0767822265625,
+                    500.0789794921875,
+                    361.0374755859375
+                ],
+                "confidence": 0.572059154510498,
+                "class_id": 4,
+                "class_name": "Level Crossing with Gates Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 238,
+        "detections": []
+    },
+    {
+        "frame": 239,
+        "detections": [
+            {
+                "bbox": [
+                    465.9363098144531,
+                    323.95025634765625,
+                    495.0921936035156,
+                    361.82696533203125
+                ],
+                "confidence": 0.6484828591346741,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 240,
+        "detections": [
+            {
+                "bbox": [
+                    463.0260009765625,
+                    322.453125,
+                    494.13140869140625,
+                    361.4517822265625
+                ],
+                "confidence": 0.7564215064048767,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 241,
+        "detections": []
+    },
+    {
+        "frame": 242,
+        "detections": [
+            {
+                "bbox": [
+                    458.26055908203125,
+                    321.8057861328125,
+                    493.12689208984375,
+                    362.1680908203125
+                ],
+                "confidence": 0.5660721659660339,
+                "class_id": 2,
+                "class_name": "Double Bend to Right Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 243,
+        "detections": []
+    },
+    {
+        "frame": 244,
+        "detections": []
+    },
+    {
+        "frame": 245,
+        "detections": [
+            {
+                "bbox": [
+                    451.3667907714844,
+                    320.8143310546875,
+                    489.0361633300781,
+                    362.2376708984375
+                ],
+                "confidence": 0.625800371170044,
+                "class_id": 4,
+                "class_name": "Level Crossing with Gates Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 246,
+        "detections": []
+    },
+    {
+        "frame": 247,
+        "detections": [
+            {
+                "bbox": [
+                    445.24017333984375,
+                    320.7415771484375,
+                    483.60980224609375,
+                    361.8575439453125
+                ],
+                "confidence": 0.5652047395706177,
+                "class_id": 4,
+                "class_name": "Level Crossing with Gates Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 248,
+        "detections": []
+    },
+    {
+        "frame": 249,
+        "detections": []
+    },
+    {
+        "frame": 250,
+        "detections": []
+    },
+    {
+        "frame": 251,
+        "detections": []
+    },
+    {
+        "frame": 252,
+        "detections": []
+    },
+    {
+        "frame": 253,
+        "detections": [
+            {
+                "bbox": [
+                    429.09600830078125,
+                    317.2178955078125,
+                    469.51385498046875,
+                    363.1319580078125
+                ],
+                "confidence": 0.6115518808364868,
+                "class_id": 4,
+                "class_name": "Level Crossing with Gates Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 254,
+        "detections": []
+    },
+    {
+        "frame": 255,
+        "detections": []
+    },
+    {
+        "frame": 256,
+        "detections": []
+    },
+    {
+        "frame": 257,
+        "detections": []
+    },
+    {
+        "frame": 258,
+        "detections": [
+            {
+                "bbox": [
+                    412.4261779785156,
+                    314.13427734375,
+                    452.6924743652344,
+                    366.285400390625
+                ],
+                "confidence": 0.7483641505241394,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 259,
+        "detections": []
+    },
+    {
+        "frame": 260,
+        "detections": [
+            {
+                "bbox": [
+                    403.5887451171875,
+                    312.972412109375,
+                    447.1317138671875,
+                    367.385009765625
+                ],
+                "confidence": 0.7540921568870544,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 261,
+        "detections": []
+    },
+    {
+        "frame": 262,
+        "detections": [
+            {
+                "bbox": [
+                    394.7994384765625,
+                    312.1710205078125,
+                    442.27154541015625,
+                    368.8692626953125
+                ],
+                "confidence": 0.788955569267273,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 263,
+        "detections": [
+            {
+                "bbox": [
+                    390.17877197265625,
+                    312.06787109375,
+                    437.52435302734375,
+                    370.54150390625
+                ],
+                "confidence": 0.7682235240936279,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 264,
+        "detections": [
+            {
+                "bbox": [
+                    385.20697021484375,
+                    312.43341064453125,
+                    434.71612548828125,
+                    369.20013427734375
+                ],
+                "confidence": 0.5633852481842041,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 265,
+        "detections": [
+            {
+                "bbox": [
+                    379.6431884765625,
+                    311.9437255859375,
+                    431.8690185546875,
+                    369.710693359375
+                ],
+                "confidence": 0.6346045732498169,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 266,
+        "detections": [
+            {
+                "bbox": [
+                    373.62030029296875,
+                    310.12835693359375,
+                    429.54718017578125,
+                    371.18597412109375
+                ],
+                "confidence": 0.7564479112625122,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 267,
+        "detections": [
+            {
+                "bbox": [
+                    366.798583984375,
+                    308.1624755859375,
+                    422.55841064453125,
+                    372.175048828125
+                ],
+                "confidence": 0.7549583911895752,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 268,
+        "detections": [
+            {
+                "bbox": [
+                    360.5733642578125,
+                    307.3656005859375,
+                    419.5771484375,
+                    371.9649658203125
+                ],
+                "confidence": 0.7856888771057129,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 269,
+        "detections": [
+            {
+                "bbox": [
+                    355.3254089355469,
+                    306.398193359375,
+                    416.2561950683594,
+                    373.890625
+                ],
+                "confidence": 0.7772667407989502,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 270,
+        "detections": [
+            {
+                "bbox": [
+                    347.73211669921875,
+                    304.135986328125,
+                    408.38153076171875,
+                    374.733642578125
+                ],
+                "confidence": 0.8184053897857666,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 271,
+        "detections": [
+            {
+                "bbox": [
+                    341.67596435546875,
+                    302.4085693359375,
+                    404.84759521484375,
+                    374.720703125
+                ],
+                "confidence": 0.8413951992988586,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 272,
+        "detections": [
+            {
+                "bbox": [
+                    333.42083740234375,
+                    301.0299072265625,
+                    399.29681396484375,
+                    375.2579345703125
+                ],
+                "confidence": 0.8518991470336914,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 273,
+        "detections": [
+            {
+                "bbox": [
+                    325.1136474609375,
+                    300.5595703125,
+                    394.40570068359375,
+                    376.7230224609375
+                ],
+                "confidence": 0.8195356130599976,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 274,
+        "detections": [
+            {
+                "bbox": [
+                    316.5317077636719,
+                    299.344970703125,
+                    387.9673767089844,
+                    377.4683837890625
+                ],
+                "confidence": 0.8526775240898132,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 275,
+        "detections": [
+            {
+                "bbox": [
+                    307.69049072265625,
+                    298.35382080078125,
+                    381.40203857421875,
+                    377.91363525390625
+                ],
+                "confidence": 0.7890679836273193,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 276,
+        "detections": [
+            {
+                "bbox": [
+                    298.30615234375,
+                    297.33807373046875,
+                    373.31463623046875,
+                    380.16217041015625
+                ],
+                "confidence": 0.8513268232345581,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 277,
+        "detections": [
+            {
+                "bbox": [
+                    286.04638671875,
+                    296.86865234375,
+                    367.67333984375,
+                    380.9974365234375
+                ],
+                "confidence": 0.8130719661712646,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 278,
+        "detections": [
+            {
+                "bbox": [
+                    275.89398193359375,
+                    294.9130859375,
+                    359.06048583984375,
+                    382.0849609375
+                ],
+                "confidence": 0.8279198408126831,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 279,
+        "detections": [
+            {
+                "bbox": [
+                    263.9659423828125,
+                    290.79248046875,
+                    352.3837890625,
+                    384.5841064453125
+                ],
+                "confidence": 0.8618202209472656,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 280,
+        "detections": []
+    },
+    {
+        "frame": 281,
+        "detections": [
+            {
+                "bbox": [
+                    237.9612274169922,
+                    288.76416015625,
+                    333.60711669921875,
+                    386.962890625
+                ],
+                "confidence": 0.8694334626197815,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 282,
+        "detections": [
+            {
+                "bbox": [
+                    223.33438110351562,
+                    284.9791259765625,
+                    320.9290466308594,
+                    388.124267578125
+                ],
+                "confidence": 0.777849555015564,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 283,
+        "detections": [
+            {
+                "bbox": [
+                    206.7383575439453,
+                    284.5782470703125,
+                    307.11920166015625,
+                    391.1663818359375
+                ],
+                "confidence": 0.6521157026290894,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 284,
+        "detections": [
+            {
+                "bbox": [
+                    188.16781616210938,
+                    280.5103759765625,
+                    295.4051208496094,
+                    392.512939453125
+                ],
+                "confidence": 0.8376805186271667,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 285,
+        "detections": [
+            {
+                "bbox": [
+                    167.64459228515625,
+                    277.4979248046875,
+                    281.9111328125,
+                    394.0303955078125
+                ],
+                "confidence": 0.7728108763694763,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 286,
+        "detections": []
+    },
+    {
+        "frame": 287,
+        "detections": [
+            {
+                "bbox": [
+                    121.37913513183594,
+                    268.7564697265625,
+                    245.55320739746094,
+                    400.4112548828125
+                ],
+                "confidence": 0.7227542996406555,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 288,
+        "detections": [
+            {
+                "bbox": [
+                    95.71924591064453,
+                    265.5572509765625,
+                    224.97430419921875,
+                    403.740966796875
+                ],
+                "confidence": 0.8190595507621765,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 289,
+        "detections": [
+            {
+                "bbox": [
+                    65.19619750976562,
+                    259.667236328125,
+                    201.228515625,
+                    411.090576171875
+                ],
+                "confidence": 0.6420965194702148,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 290,
+        "detections": [
+            {
+                "bbox": [
+                    32.0462646484375,
+                    254.4097900390625,
+                    179.74559020996094,
+                    415.286376953125
+                ],
+                "confidence": 0.6838650107383728,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 291,
+        "detections": [
+            {
+                "bbox": [
+                    0.7493743896484375,
+                    249.08544921875,
+                    150.4510498046875,
+                    422.1875
+                ],
+                "confidence": 0.7325316667556763,
+                "class_id": 15,
+                "class_name": "Road Work Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 292,
+        "detections": [
+            {
+                "bbox": [
+                    0.00469970703125,
+                    239.2294921875,
+                    114.9532470703125,
+                    429.361572265625
+                ],
+                "confidence": 0.7475596070289612,
+                "class_id": 4,
+                "class_name": "Level Crossing with Gates Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 293,
+        "detections": [
+            {
+                "bbox": [
+                    0.0,
+                    228.35317993164062,
+                    77.23658752441406,
+                    432.0928955078125
+                ],
+                "confidence": 0.7939664125442505,
+                "class_id": 4,
+                "class_name": "Level Crossing with Gates Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 294,
+        "detections": [
+            {
+                "bbox": [
+                    0.0,
+                    231.7354736328125,
+                    32.068424224853516,
+                    400.2550048828125
+                ],
+                "confidence": 0.5134885907173157,
+                "class_id": 12,
+                "class_name": "Road Narrows Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 295,
+        "detections": []
+    },
+    {
+        "frame": 296,
+        "detections": []
+    },
+    {
+        "frame": 297,
+        "detections": []
+    },
+    {
+        "frame": 298,
+        "detections": []
+    },
+    {
+        "frame": 299,
+        "detections": []
+    },
+    {
+        "frame": 300,
+        "detections": []
+    },
+    {
+        "frame": 301,
+        "detections": []
+    },
+    {
+        "frame": 302,
+        "detections": []
+    },
+    {
+        "frame": 303,
+        "detections": []
+    },
+    {
+        "frame": 304,
+        "detections": [
+            {
+                "bbox": [
+                    405.87811279296875,
+                    307.1766357421875,
+                    432.89691162109375,
+                    345.584228515625
+                ],
+                "confidence": 0.5258979201316833,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 305,
+        "detections": [
+            {
+                "bbox": [
+                    404.17755126953125,
+                    305.3194580078125,
+                    432.50262451171875,
+                    345.9603271484375
+                ],
+                "confidence": 0.6725171804428101,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 306,
+        "detections": []
+    },
+    {
+        "frame": 307,
+        "detections": [
+            {
+                "bbox": [
+                    402.20458984375,
+                    306.65838623046875,
+                    430.2860107421875,
+                    346.07720947265625
+                ],
+                "confidence": 0.5921346545219421,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 308,
+        "detections": [
+            {
+                "bbox": [
+                    399.54132080078125,
+                    307.0396728515625,
+                    428.31011962890625,
+                    346.089111328125
+                ],
+                "confidence": 0.6230154037475586,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 309,
+        "detections": [
+            {
+                "bbox": [
+                    397.2254943847656,
+                    305.6478271484375,
+                    427.1808776855469,
+                    346.1033935546875
+                ],
+                "confidence": 0.6272751688957214,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 310,
+        "detections": [
+            {
+                "bbox": [
+                    396.5736083984375,
+                    305.3623046875,
+                    425.8837890625,
+                    346.2330322265625
+                ],
+                "confidence": 0.5923762321472168,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 311,
+        "detections": [
+            {
+                "bbox": [
+                    394.706787109375,
+                    305.489990234375,
+                    424.522216796875,
+                    346.06982421875
+                ],
+                "confidence": 0.6069722175598145,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 312,
+        "detections": [
+            {
+                "bbox": [
+                    392.82562255859375,
+                    304.4254150390625,
+                    423.47613525390625,
+                    346.3624267578125
+                ],
+                "confidence": 0.6004683971405029,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 313,
+        "detections": [
+            {
+                "bbox": [
+                    390.7867126464844,
+                    303.732666015625,
+                    422.5740661621094,
+                    344.442626953125
+                ],
+                "confidence": 0.730365514755249,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 314,
+        "detections": [
+            {
+                "bbox": [
+                    390.10540771484375,
+                    303.15045166015625,
+                    420.19036865234375,
+                    344.06756591796875
+                ],
+                "confidence": 0.7980633974075317,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 315,
+        "detections": [
+            {
+                "bbox": [
+                    387.67059326171875,
+                    303.7806396484375,
+                    419.073974609375,
+                    344.47607421875
+                ],
+                "confidence": 0.6884095072746277,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 316,
+        "detections": [
+            {
+                "bbox": [
+                    386.0055236816406,
+                    302.5186767578125,
+                    417.5693054199219,
+                    344.8128662109375
+                ],
+                "confidence": 0.7053398489952087,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 317,
+        "detections": [
+            {
+                "bbox": [
+                    384.09307861328125,
+                    302.107421875,
+                    416.4661865234375,
+                    345.633544921875
+                ],
+                "confidence": 0.6751206517219543,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 318,
+        "detections": [
+            {
+                "bbox": [
+                    383.01251220703125,
+                    301.83984375,
+                    412.51824951171875,
+                    345.6900634765625
+                ],
+                "confidence": 0.7741559743881226,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 319,
+        "detections": [
+            {
+                "bbox": [
+                    380.6836853027344,
+                    300.87811279296875,
+                    410.3207702636719,
+                    344.85101318359375
+                ],
+                "confidence": 0.7553017139434814,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 320,
+        "detections": [
+            {
+                "bbox": [
+                    377.782958984375,
+                    299.5120849609375,
+                    410.08642578125,
+                    345.6002197265625
+                ],
+                "confidence": 0.7498425245285034,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 321,
+        "detections": [
+            {
+                "bbox": [
+                    376.3099365234375,
+                    299.12109375,
+                    409.4130859375,
+                    345.32568359375
+                ],
+                "confidence": 0.7910335063934326,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 322,
+        "detections": [
+            {
+                "bbox": [
+                    375.01544189453125,
+                    297.616455078125,
+                    407.96417236328125,
+                    344.368896484375
+                ],
+                "confidence": 0.8669086694717407,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 323,
+        "detections": [
+            {
+                "bbox": [
+                    372.7538757324219,
+                    297.20501708984375,
+                    405.3923034667969,
+                    344.00323486328125
+                ],
+                "confidence": 0.8660218715667725,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 324,
+        "detections": [
+            {
+                "bbox": [
+                    370.95074462890625,
+                    296.9764404296875,
+                    404.52923583984375,
+                    345.2628173828125
+                ],
+                "confidence": 0.8415713310241699,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 325,
+        "detections": [
+            {
+                "bbox": [
+                    368.63214111328125,
+                    295.97344970703125,
+                    404.30950927734375,
+                    346.25103759765625
+                ],
+                "confidence": 0.7355040311813354,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 326,
+        "detections": [
+            {
+                "bbox": [
+                    366.6629638671875,
+                    296.76220703125,
+                    402.67626953125,
+                    346.687744140625
+                ],
+                "confidence": 0.8623504042625427,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 327,
+        "detections": [
+            {
+                "bbox": [
+                    362.7069091796875,
+                    294.8773193359375,
+                    400.15380859375,
+                    346.7052001953125
+                ],
+                "confidence": 0.7306514978408813,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 328,
+        "detections": [
+            {
+                "bbox": [
+                    356.96966552734375,
+                    293.390625,
+                    397.92901611328125,
+                    347.4176025390625
+                ],
+                "confidence": 0.8862012624740601,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 329,
+        "detections": [
+            {
+                "bbox": [
+                    355.27606201171875,
+                    292.1082763671875,
+                    396.81494140625,
+                    348.5118408203125
+                ],
+                "confidence": 0.8747379779815674,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 330,
+        "detections": [
+            {
+                "bbox": [
+                    352.03399658203125,
+                    291.5091552734375,
+                    394.20587158203125,
+                    347.2347412109375
+                ],
+                "confidence": 0.835568904876709,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 331,
+        "detections": [
+            {
+                "bbox": [
+                    348.0734558105469,
+                    289.16986083984375,
+                    391.7007141113281,
+                    349.57293701171875
+                ],
+                "confidence": 0.8970135450363159,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 332,
+        "detections": [
+            {
+                "bbox": [
+                    343.1504821777344,
+                    288.78240966796875,
+                    389.0361633300781,
+                    349.19122314453125
+                ],
+                "confidence": 0.8090296983718872,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 333,
+        "detections": [
+            {
+                "bbox": [
+                    338.305908203125,
+                    286.41693115234375,
+                    385.1614990234375,
+                    349.08953857421875
+                ],
+                "confidence": 0.658777117729187,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 334,
+        "detections": [
+            {
+                "bbox": [
+                    336.6689453125,
+                    285.98126220703125,
+                    382.9896240234375,
+                    350.22357177734375
+                ],
+                "confidence": 0.8298847079277039,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 335,
+        "detections": [
+            {
+                "bbox": [
+                    328.9360656738281,
+                    285.3773193359375,
+                    380.6502990722656,
+                    350.4456787109375
+                ],
+                "confidence": 0.9097990989685059,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 336,
+        "detections": [
+            {
+                "bbox": [
+                    323.60400390625,
+                    283.6712646484375,
+                    377.310791015625,
+                    351.0660400390625
+                ],
+                "confidence": 0.9269606471061707,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 337,
+        "detections": [
+            {
+                "bbox": [
+                    318.7091369628906,
+                    281.5625,
+                    373.1586608886719,
+                    351.040283203125
+                ],
+                "confidence": 0.9024336338043213,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 338,
+        "detections": [
+            {
+                "bbox": [
+                    312.31097412109375,
+                    281.38165283203125,
+                    369.87646484375,
+                    351.98699951171875
+                ],
+                "confidence": 0.8904571533203125,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 339,
+        "detections": [
+            {
+                "bbox": [
+                    306.37158203125,
+                    280.38427734375,
+                    366.62060546875,
+                    351.6722412109375
+                ],
+                "confidence": 0.9102450609207153,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 340,
+        "detections": [
+            {
+                "bbox": [
+                    299.92138671875,
+                    277.8135986328125,
+                    360.79248046875,
+                    352.4127197265625
+                ],
+                "confidence": 0.797228217124939,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 341,
+        "detections": [
+            {
+                "bbox": [
+                    293.78912353515625,
+                    276.2398681640625,
+                    357.85321044921875,
+                    353.0311279296875
+                ],
+                "confidence": 0.9063789248466492,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 342,
+        "detections": [
+            {
+                "bbox": [
+                    285.39141845703125,
+                    274.5096435546875,
+                    353.53582763671875,
+                    353.4512939453125
+                ],
+                "confidence": 0.8938347101211548,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 343,
+        "detections": [
+            {
+                "bbox": [
+                    277.70367431640625,
+                    272.2076416015625,
+                    346.49481201171875,
+                    353.2899169921875
+                ],
+                "confidence": 0.9006143808364868,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 344,
+        "detections": [
+            {
+                "bbox": [
+                    268.20172119140625,
+                    271.462646484375,
+                    342.32147216796875,
+                    356.095947265625
+                ],
+                "confidence": 0.8494287133216858,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 345,
+        "detections": [
+            {
+                "bbox": [
+                    260.520263671875,
+                    269.3369140625,
+                    336.234375,
+                    357.59033203125
+                ],
+                "confidence": 0.9034502506256104,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 346,
+        "detections": [
+            {
+                "bbox": [
+                    249.9819793701172,
+                    265.84820556640625,
+                    330.47540283203125,
+                    356.62933349609375
+                ],
+                "confidence": 0.8426059484481812,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 347,
+        "detections": [
+            {
+                "bbox": [
+                    240.9997100830078,
+                    264.334716796875,
+                    324.26055908203125,
+                    358.179931640625
+                ],
+                "confidence": 0.8711041212081909,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 348,
+        "detections": [
+            {
+                "bbox": [
+                    227.7899169921875,
+                    261.11114501953125,
+                    317.046875,
+                    359.72515869140625
+                ],
+                "confidence": 0.7829974293708801,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 349,
+        "detections": [
+            {
+                "bbox": [
+                    215.7651824951172,
+                    257.04168701171875,
+                    305.89801025390625,
+                    363.68951416015625
+                ],
+                "confidence": 0.8939385414123535,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 350,
+        "detections": [
+            {
+                "bbox": [
+                    202.75177001953125,
+                    253.36474609375,
+                    297.65435791015625,
+                    365.7042236328125
+                ],
+                "confidence": 0.718058705329895,
+                "class_id": 13,
+                "class_name": "Road Narrows on the Left Side Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 351,
+        "detections": [
+            {
+                "bbox": [
+                    188.4215087890625,
+                    249.8280029296875,
+                    288.3106689453125,
+                    366.8836669921875
+                ],
+                "confidence": 0.8668058514595032,
+                "class_id": 12,
+                "class_name": "Road Narrows Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 352,
+        "detections": [
+            {
+                "bbox": [
+                    173.810546875,
+                    247.2694091796875,
+                    273.4136962890625,
+                    369.0230712890625
+                ],
+                "confidence": 0.8650633096694946,
+                "class_id": 12,
+                "class_name": "Road Narrows Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 353,
+        "detections": [
+            {
+                "bbox": [
+                    154.00527954101562,
+                    241.9979248046875,
+                    263.0306091308594,
+                    371.4757080078125
+                ],
+                "confidence": 0.7734013795852661,
+                "class_id": 12,
+                "class_name": "Road Narrows Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 354,
+        "detections": [
+            {
+                "bbox": [
+                    133.38937377929688,
+                    237.7418212890625,
+                    247.7822265625,
+                    373.9600830078125
+                ],
+                "confidence": 0.8656113147735596,
+                "class_id": 12,
+                "class_name": "Road Narrows Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 355,
+        "detections": [
+            {
+                "bbox": [
+                    111.68017578125,
+                    232.035888671875,
+                    230.82504272460938,
+                    378.2554931640625
+                ],
+                "confidence": 0.8887920379638672,
+                "class_id": 12,
+                "class_name": "Road Narrows Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 356,
+        "detections": [
+            {
+                "bbox": [
+                    84.84891510009766,
+                    225.81436157226562,
+                    208.96920776367188,
+                    382.3878173828125
+                ],
+                "confidence": 0.9298442602157593,
+                "class_id": 12,
+                "class_name": "Road Narrows Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 357,
+        "detections": [
+            {
+                "bbox": [
+                    56.14593505859375,
+                    219.73876953125,
+                    185.88064575195312,
+                    387.8983154296875
+                ],
+                "confidence": 0.9338568449020386,
+                "class_id": 12,
+                "class_name": "Road Narrows Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 358,
+        "detections": [
+            {
+                "bbox": [
+                    24.240768432617188,
+                    212.14871215820312,
+                    163.4344482421875,
+                    394.4912109375
+                ],
+                "confidence": 0.9256633520126343,
+                "class_id": 12,
+                "class_name": "Road Narrows Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 359,
+        "detections": [
+            {
+                "bbox": [
+                    0.0292816162109375,
+                    198.56942749023438,
+                    128.2226104736328,
+                    400.4354248046875
+                ],
+                "confidence": 0.9447036981582642,
+                "class_id": 12,
+                "class_name": "Road Narrows Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 360,
+        "detections": [
+            {
+                "bbox": [
+                    0.0,
+                    183.65380859375,
+                    89.3723373413086,
+                    413.5958251953125
+                ],
+                "confidence": 0.8714466094970703,
+                "class_id": 12,
+                "class_name": "Road Narrows Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 361,
+        "detections": []
+    },
+    {
+        "frame": 362,
+        "detections": []
+    },
+    {
+        "frame": 363,
+        "detections": []
+    },
+    {
+        "frame": 364,
+        "detections": []
+    },
+    {
+        "frame": 365,
+        "detections": []
+    },
+    {
+        "frame": 366,
+        "detections": []
+    },
+    {
+        "frame": 367,
+        "detections": []
+    },
+    {
+        "frame": 368,
+        "detections": []
+    },
+    {
+        "frame": 369,
+        "detections": []
+    },
+    {
+        "frame": 370,
+        "detections": []
+    },
+    {
+        "frame": 371,
+        "detections": []
+    },
+    {
+        "frame": 372,
+        "detections": []
+    },
+    {
+        "frame": 373,
+        "detections": []
+    },
+    {
+        "frame": 374,
+        "detections": [
+            {
+                "bbox": [
+                    1252.644775390625,
+                    294.7918701171875,
+                    1280.0,
+                    356.1221923828125
+                ],
+                "confidence": 0.5199785828590393,
+                "class_id": 6,
+                "class_name": "No Left Turn"
+            }
+        ]
+    },
+    {
+        "frame": 375,
+        "detections": []
+    },
+    {
+        "frame": 376,
+        "detections": []
+    },
+    {
+        "frame": 377,
+        "detections": []
+    },
+    {
+        "frame": 378,
+        "detections": []
+    },
+    {
+        "frame": 379,
+        "detections": []
+    },
+    {
+        "frame": 380,
+        "detections": []
+    },
+    {
+        "frame": 381,
+        "detections": []
+    },
+    {
+        "frame": 382,
+        "detections": []
+    },
+    {
+        "frame": 383,
+        "detections": []
+    },
+    {
+        "frame": 384,
+        "detections": []
+    },
+    {
+        "frame": 385,
+        "detections": []
+    },
+    {
+        "frame": 386,
+        "detections": []
+    },
+    {
+        "frame": 387,
+        "detections": []
+    },
+    {
+        "frame": 388,
+        "detections": []
+    },
+    {
+        "frame": 389,
+        "detections": []
+    },
+    {
+        "frame": 390,
+        "detections": []
+    },
+    {
+        "frame": 391,
+        "detections": []
+    },
+    {
+        "frame": 392,
+        "detections": []
+    },
+    {
+        "frame": 393,
+        "detections": []
+    },
+    {
+        "frame": 394,
+        "detections": []
+    },
+    {
+        "frame": 395,
+        "detections": []
+    },
+    {
+        "frame": 396,
+        "detections": []
+    },
+    {
+        "frame": 397,
+        "detections": []
+    },
+    {
+        "frame": 398,
+        "detections": []
+    },
+    {
+        "frame": 399,
+        "detections": []
+    },
+    {
+        "frame": 400,
+        "detections": []
+    },
+    {
+        "frame": 401,
+        "detections": []
+    },
+    {
+        "frame": 402,
+        "detections": []
+    },
+    {
+        "frame": 403,
+        "detections": []
+    },
+    {
+        "frame": 404,
+        "detections": []
+    },
+    {
+        "frame": 405,
+        "detections": []
+    },
+    {
+        "frame": 406,
+        "detections": []
+    },
+    {
+        "frame": 407,
+        "detections": []
+    },
+    {
+        "frame": 408,
+        "detections": []
+    },
+    {
+        "frame": 409,
+        "detections": []
+    },
+    {
+        "frame": 410,
+        "detections": []
+    },
+    {
+        "frame": 411,
+        "detections": []
+    },
+    {
+        "frame": 412,
+        "detections": []
+    },
+    {
+        "frame": 413,
+        "detections": []
+    },
+    {
+        "frame": 414,
+        "detections": []
+    },
+    {
+        "frame": 415,
+        "detections": []
+    },
+    {
+        "frame": 416,
+        "detections": []
+    },
+    {
+        "frame": 417,
+        "detections": []
+    },
+    {
+        "frame": 418,
+        "detections": []
+    },
+    {
+        "frame": 419,
+        "detections": []
+    },
+    {
+        "frame": 420,
+        "detections": []
+    },
+    {
+        "frame": 421,
+        "detections": []
+    },
+    {
+        "frame": 422,
+        "detections": []
+    },
+    {
+        "frame": 423,
+        "detections": []
+    },
+    {
+        "frame": 424,
+        "detections": []
+    },
+    {
+        "frame": 425,
+        "detections": []
+    },
+    {
+        "frame": 426,
+        "detections": []
+    },
+    {
+        "frame": 427,
+        "detections": []
+    },
+    {
+        "frame": 428,
+        "detections": []
+    },
+    {
+        "frame": 429,
+        "detections": []
+    },
+    {
+        "frame": 430,
+        "detections": []
+    },
+    {
+        "frame": 431,
+        "detections": []
+    },
+    {
+        "frame": 432,
+        "detections": []
+    },
+    {
+        "frame": 433,
+        "detections": []
+    },
+    {
+        "frame": 434,
+        "detections": []
+    },
+    {
+        "frame": 435,
+        "detections": []
+    },
+    {
+        "frame": 436,
+        "detections": []
+    },
+    {
+        "frame": 437,
+        "detections": []
+    },
+    {
+        "frame": 438,
+        "detections": []
+    },
+    {
+        "frame": 439,
+        "detections": []
+    },
+    {
+        "frame": 440,
+        "detections": []
+    },
+    {
+        "frame": 441,
+        "detections": []
+    },
+    {
+        "frame": 442,
+        "detections": []
+    },
+    {
+        "frame": 443,
+        "detections": []
+    },
+    {
+        "frame": 444,
+        "detections": []
+    },
+    {
+        "frame": 445,
+        "detections": []
+    },
+    {
+        "frame": 446,
+        "detections": []
+    },
+    {
+        "frame": 447,
+        "detections": []
+    },
+    {
+        "frame": 448,
+        "detections": []
+    },
+    {
+        "frame": 449,
+        "detections": []
+    },
+    {
+        "frame": 450,
+        "detections": []
+    },
+    {
+        "frame": 451,
+        "detections": []
+    },
+    {
+        "frame": 452,
+        "detections": []
+    },
+    {
+        "frame": 453,
+        "detections": []
+    },
+    {
+        "frame": 454,
+        "detections": []
+    },
+    {
+        "frame": 455,
+        "detections": []
+    },
+    {
+        "frame": 456,
+        "detections": []
+    },
+    {
+        "frame": 457,
+        "detections": []
+    },
+    {
+        "frame": 458,
+        "detections": []
+    },
+    {
+        "frame": 459,
+        "detections": []
+    },
+    {
+        "frame": 460,
+        "detections": []
+    },
+    {
+        "frame": 461,
+        "detections": []
+    },
+    {
+        "frame": 462,
+        "detections": []
+    },
+    {
+        "frame": 463,
+        "detections": []
+    },
+    {
+        "frame": 464,
+        "detections": []
+    },
+    {
+        "frame": 465,
+        "detections": []
+    },
+    {
+        "frame": 466,
+        "detections": []
+    },
+    {
+        "frame": 467,
+        "detections": []
+    },
+    {
+        "frame": 468,
+        "detections": []
+    },
+    {
+        "frame": 469,
+        "detections": []
+    },
+    {
+        "frame": 470,
+        "detections": []
+    },
+    {
+        "frame": 471,
+        "detections": []
+    },
+    {
+        "frame": 472,
+        "detections": []
+    },
+    {
+        "frame": 473,
+        "detections": []
+    },
+    {
+        "frame": 474,
+        "detections": []
+    },
+    {
+        "frame": 475,
+        "detections": []
+    },
+    {
+        "frame": 476,
+        "detections": [
+            {
+                "bbox": [
+                    317.83404541015625,
+                    266.8502197265625,
+                    333.54638671875,
+                    293.317626953125
+                ],
+                "confidence": 0.5384641885757446,
+                "class_id": 4,
+                "class_name": "Level Crossing with Gates Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 477,
+        "detections": [
+            {
+                "bbox": [
+                    314.8157653808594,
+                    266.74774169921875,
+                    331.2478332519531,
+                    293.01397705078125
+                ],
+                "confidence": 0.5006110668182373,
+                "class_id": 4,
+                "class_name": "Level Crossing with Gates Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 478,
+        "detections": []
+    },
+    {
+        "frame": 479,
+        "detections": []
+    },
+    {
+        "frame": 480,
+        "detections": []
+    },
+    {
+        "frame": 481,
+        "detections": [
+            {
+                "bbox": [
+                    302.0459899902344,
+                    263.333251953125,
+                    320.9912414550781,
+                    292.322998046875
+                ],
+                "confidence": 0.5546360611915588,
+                "class_id": 4,
+                "class_name": "Level Crossing with Gates Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 482,
+        "detections": []
+    },
+    {
+        "frame": 483,
+        "detections": []
+    },
+    {
+        "frame": 484,
+        "detections": []
+    },
+    {
+        "frame": 485,
+        "detections": []
+    },
+    {
+        "frame": 486,
+        "detections": []
+    },
+    {
+        "frame": 487,
+        "detections": []
+    },
+    {
+        "frame": 488,
+        "detections": []
+    },
+    {
+        "frame": 489,
+        "detections": []
+    },
+    {
+        "frame": 490,
+        "detections": []
+    },
+    {
+        "frame": 491,
+        "detections": []
+    },
+    {
+        "frame": 492,
+        "detections": []
+    },
+    {
+        "frame": 493,
+        "detections": []
+    },
+    {
+        "frame": 494,
+        "detections": []
+    },
+    {
+        "frame": 495,
+        "detections": []
+    },
+    {
+        "frame": 496,
+        "detections": []
+    },
+    {
+        "frame": 497,
+        "detections": [
+            {
+                "bbox": [
+                    243.9207305908203,
+                    240.7784423828125,
+                    273.07269287109375,
+                    284.2540283203125
+                ],
+                "confidence": 0.6456122994422913,
+                "class_id": 10,
+                "class_name": "Pedestrian Crossing Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 498,
+        "detections": [
+            {
+                "bbox": [
+                    238.74029541015625,
+                    241.3424072265625,
+                    268.54656982421875,
+                    283.2098388671875
+                ],
+                "confidence": 0.50395268201828,
+                "class_id": 10,
+                "class_name": "Pedestrian Crossing Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 499,
+        "detections": []
+    },
+    {
+        "frame": 500,
+        "detections": []
+    },
+    {
+        "frame": 501,
+        "detections": []
+    },
+    {
+        "frame": 502,
+        "detections": [
+            {
+                "bbox": [
+                    220.80978393554688,
+                    233.901611328125,
+                    253.86959838867188,
+                    281.3214111328125
+                ],
+                "confidence": 0.7157909870147705,
+                "class_id": 12,
+                "class_name": "Road Narrows Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 503,
+        "detections": [
+            {
+                "bbox": [
+                    213.48406982421875,
+                    231.848876953125,
+                    250.21221923828125,
+                    282.05078125
+                ],
+                "confidence": 0.7307695150375366,
+                "class_id": 12,
+                "class_name": "Road Narrows Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 504,
+        "detections": [
+            {
+                "bbox": [
+                    207.98074340820312,
+                    232.2864990234375,
+                    244.67007446289062,
+                    280.3768310546875
+                ],
+                "confidence": 0.7144405245780945,
+                "class_id": 12,
+                "class_name": "Road Narrows Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 505,
+        "detections": [
+            {
+                "bbox": [
+                    200.71983337402344,
+                    232.910400390625,
+                    238.36024475097656,
+                    279.272705078125
+                ],
+                "confidence": 0.8758301734924316,
+                "class_id": 12,
+                "class_name": "Road Narrows Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 506,
+        "detections": [
+            {
+                "bbox": [
+                    195.52130126953125,
+                    228.04071044921875,
+                    234.5888671875,
+                    278.82281494140625
+                ],
+                "confidence": 0.774377167224884,
+                "class_id": 12,
+                "class_name": "Road Narrows Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 507,
+        "detections": []
+    },
+    {
+        "frame": 508,
+        "detections": [
+            {
+                "bbox": [
+                    180.9483642578125,
+                    222.050537109375,
+                    220.56829833984375,
+                    275.694091796875
+                ],
+                "confidence": 0.8367277979850769,
+                "class_id": 12,
+                "class_name": "Road Narrows Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 509,
+        "detections": [
+            {
+                "bbox": [
+                    172.9763946533203,
+                    218.70870971679688,
+                    214.0083465576172,
+                    273.28857421875
+                ],
+                "confidence": 0.8268312811851501,
+                "class_id": 12,
+                "class_name": "Road Narrows Ahead"
+            }
+        ]
+    },
+    {
+        "frame": 510,
+        "detections": [
+            {
+                "bbox": [
+                    164.29336547851562,
+                    216.302978515625,
+                    207.41317749023438,
+                    270.718505859375
+                ],
+                "confidence": 0.8477797508239746,
+                "class_id": 12,
+                "class_name": "Road Narrows Ahead"
+            }
+        ]
+    }
+]

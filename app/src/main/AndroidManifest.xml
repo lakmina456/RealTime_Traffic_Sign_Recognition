@@ -1,0 +1,134 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.signme">
+
+    <uses-feature
+        android:name="android.hardware.camera"
+
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="32" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+
+
+
+    <application
+        android:allowBackup="true"
+        android:label="SignMe"
+        android:icon="@mipmap/ic_launcher"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:hardwareAccelerated="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true"
+        android:requestLegacyExternalStorage="true">
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="YOUR_API_KEY_HERE" />
+
+        <activity android:name=".detection.Main"
+            android:screenOrientation="landscape"
+            tools:ignore="DiscouragedApi"/>
+        <activity android:name=".detection.Main2"
+            android:screenOrientation="landscape"
+            tools:ignore="DiscouragedApi"/>
+        <activity
+            android:name=".HomeActivity"
+            android:exported="true">
+        </activity>
+        <activity
+            android:name=".DriveActivity"
+            android:exported="true">
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+        </activity>
+        <activity
+            android:name=".RecordActivity"
+            android:screenOrientation="landscape"
+            tools:ignore="DiscouragedApi">
+        </activity>
+        <activity android:name=".ProfileActivity" />
+        <activity android:name=".EditProfileActivity" />
+        <activity
+            android:name=".RegisterActivity"
+            android:windowSoftInputMode="adjustResize"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".Test_Video2"
+
+            android:screenOrientation="landscape"
+            android:exported="true"
+            tools:ignore="DiscouragedApi">
+        </activity>
+        <activity
+            android:name=".Test_Video4"
+
+            android:screenOrientation="landscape"
+            android:exported="true"
+            tools:ignore="DiscouragedApi">
+        </activity>
+        <activity
+            android:name=".Test_Video3"
+
+        />
+        <activity
+            android:name=".DriveActivity2"
+
+            android:exported="true">
+        </activity>
+        <activity android:name=".HistoryActivity" />
+        <activity android:name=".AnalyticsActivity" />
+        <activity android:name=".MainAnalyticsActivity" />
+        <activity android:name=".ChangePasswordActivity" />
+        <activity android:name=".ResetPasswordActivity" />
+        <activity android:name=".CapturedPhotosActivity" />
+        <activity android:name=".GraphActivity" />
+        <activity android:name=".ViewImageActivity" />
+
+        <activity
+            android:name=".SessionActivity"
+            android:screenOrientation="landscape"
+            tools:ignore="DiscouragedApi" />
+        <activity
+            android:name=".Test_Audio1"
+            android:screenOrientation="landscape"
+            tools:ignore="DiscouragedApi" />
+        <activity
+            android:name=".Test_Audio2"
+            android:screenOrientation="landscape"
+            tools:ignore="DiscouragedApi" />
+        <activity
+            android:name=".SplashScreenActivity"
+            android:exported="true">
+
+        <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+         </activity>
+        <uses-native-library
+            android:name="libOpenCL.so"
+            android:required="true"/>
+        <uses-native-library
+            android:name="libOpenCL-pixel.so"
+            android:required="true" />
+        </application>
+
+</manifest>
