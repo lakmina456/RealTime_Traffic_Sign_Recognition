@@ -238,10 +238,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you use this work in your research, please cite our paper:
 ```
-@article{realtime_traffic_sign_2024,
+@article{realtime_traffic_sign_recognition_using_computer_vision,
   title={Real-time Traffic Sign Recognition System Using Computer Vision},
-  author={I.D.I.L Senavirathna, A.M.I.P Athapaththu, D.G.R.N Munasinghe, D.R.L Mendis, M.N.M Nafees},
-  year={2024}
+  author={I.D.I.L Senavirathna, M.N.M Nafees, D.G.R.N Munasinghe, D.R.L Mendis, A.M.I.P Athapaththu},
+  year={2025}
 }
 ```
 
