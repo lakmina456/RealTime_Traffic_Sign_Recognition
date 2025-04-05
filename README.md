@@ -1,5 +1,10 @@
 # Real-time Traffic Sign Recognition System For Android 🚦
 
+## 🏆 Award Recognition
+
+**🏅 2nd Place Winner**  
+*University Research Competition 2025 (Among 34 projects)*
+
 <div align="center">
   <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="Traffic Sign Recognition Logo" width="150" height="150"/>
   
