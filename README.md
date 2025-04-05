@@ -213,14 +213,14 @@ Results show significant improvements over existing solutions:
         <a href="https://github.com/example2" style="text-decoration: none; color: inherit;">
           <img src="https://github.com/example1.png" width="100px;" alt=""/>
           <br />
-          <sub><b>Rashmi Mendis</b></sub>
+          <sub><b>Isurika Athapaththu</b></sub>
         </a>
       </td>
       <td style="padding: 10px;">
         <a href="https://github.com/example3" style="text-decoration: none; color: inherit;">
           <img src="https://github.com/example3.png" width="100px;" alt=""/>
           <br />
-          <sub><b>Isurika Athapaththu</b></sub>
+          <sub><b>Rashmi Mendis</b></sub>
         </a>
       </td>
     </tr>
